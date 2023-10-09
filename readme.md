@@ -1,13 +1,16 @@
+<h1> 💻 Social-Tree </h1>
+<p> O Social-Tree é um projeto que visa organizar os links para as redes sociais, permitindo que os usuários acessem facilmente as redes sociais do dono da página.
+
+[Acesse a página do projeto 🔗](https://remyfonseca.github.io/social-tree/)
+</p>
 <h1> 🚀 Tecnologias </h1>
 <ul>
 <li> HTML </li>
 <li> CSS </li>
 <li> Javascript </li>
 </ul>
-<h1> 💻 Social-Tree </h1>
-<p> Projeto de uma social tree, que tem como objetivo ser usada em redes sociais, onde algum usuário pode contatar o dono da página acessando os links. Feito com HTML, CSS e Javascript.</p>
 <h1> 📷 Projeto </h1>
 
 <p align"center">
-    <img alt= 'Projeto Social-Tree' src="assets/telad.png" width="100%">
+    <img alt= 'Projeto Social-Tree' src="assets/telaMob.png">
 </p>
