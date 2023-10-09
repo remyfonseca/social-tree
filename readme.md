@@ -8,4 +8,6 @@
 <p> Projeto de uma social tree, que tem como objetivo ser usada em redes sociais, onde algum usuário pode contatar o dono da página acessando os links. Feito com HTML, CSS e Javascript.</p>
 <h1> 📷 Projeto </h1>
 
-![social-tree-image](https://user-images.githubusercontent.com/85262259/152658212-8b708e73-77ef-4229-9a63-c44e61e9c50f.png)
+<p align"center">
+    <img alt= 'Projeto Social-Tree' src="assets/telad.png" width="100%">
+</p>
